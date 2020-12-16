@@ -16,7 +16,7 @@ Olá 👋, Eu sou Diego Mendes
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/254/254409.svg" alt="limk-10" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565999692832" target="_blank">+55 (65) 9 9969-2832</a>
 </p>
 
-🛠️  Linguagens e Ferramentas
+## 🛠️&nbsp;&nbsp;Linguagens e Ferramentas
 PHP / Laravel
 Angular 8+
 Express.Js
