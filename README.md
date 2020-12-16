@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 # Hello everyone 👋
 
 Olá 👋, Eu sou Diego Mendes
