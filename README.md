@@ -6,10 +6,7 @@ Olá 👋, Eu sou Diego Mendes
 🔭  Atualmente estou como desenvolvedor FullStack na BKSoft Tecnologia, utilizando Angular 8+ com Laravel restfull.
      No Momento focando tambem como frontend, Utilizando as bibliotecas React.Js, Angular 8+, estudando tambem em conjunto o next.js, desenvolvendo projetos pessoais.
 🎯  No inicio de 2018 iniciei minha caminhada no desenvolvimento, desde então a cada dia minha curiosidade e esforço ganha mais força, estou sempre na procura de evoluir.
-🌐  Contato(s)
-Linkedln: 
-Email: diegodev.amalista@gmail.com 
-Tel: +55 (65) 9 9969-2832
+
 
 ## 🌐&nbsp;&nbsp;Contato(s)
 
