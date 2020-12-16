@@ -2,7 +2,7 @@
 
 # Hello everyone 👋
 
-<h3 align="center">Olá&nbsp;👋, Eu sou Matheus Lopes</h3>
+<h3 align="center">Olá&nbsp;👋, Eu sou Diego Mendes</h3>
 
 ## ✨&nbsp;&nbsp;Sobre
 
