@@ -7,9 +7,17 @@ Olá 👋, Eu sou Diego Mendes
      No Momento focando tambem como frontend, Utilizando as bibliotecas React.Js, Angular 8+, estudando tambem em conjunto o next.js, desenvolvendo projetos pessoais.
 🎯  No inicio de 2018 iniciei minha caminhada no desenvolvimento, desde então a cada dia minha curiosidade e esforço ganha mais força, estou sempre na procura de evoluir.
 🌐  Contato(s)
-Linkedln: https://www.linkedin.com/in/diego-mendes95 
+Linkedln: 
 Email: diegodev.amalista@gmail.com 
 Tel: +55 (65) 9 9969-2832
+
+## 🌐&nbsp;&nbsp;Contato(s)
+
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="limk-10" height="30" width="40" /> <a href="https://www.linkedin.com/in/diego-mendes95 " target="_blank">Linkedin</a> </br>
+<img align="center" src="https://cdn.jsdelivr.net/npm/font-awesome-svg-icons@0.1.0/svg/envelope.svg" alt="limk-10" height="30" width="40" /> <a href="mailto: diegodev.analista@gmail.com" target="_blank">diegodev.analista@gmail.com</a> </br>
+<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/254/254409.svg" alt="limk-10" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565999692832" target="_blank">+55 (65) 9 9969-2832</a>
+</p>
 
 🛠️  Linguagens e Ferramentas
 PHP / Laravel
