@@ -35,7 +35,8 @@ Docker
 Scrum
 GIT / GITFLOW
 
-🎓Pós-Graduando em Gesto de projetos e governança de T.I.
+🎓Pós-Graduação em gestão de projetos e governança de T.I não concluida.
+🎓MBA em Engenharia de software em andamento.
 :speech_balloon: Apaixonado por tecnologia, sempre estar melhorando minhas skills, um eterno aprendiz, desafios são essenciais para a evolução.
 
 
