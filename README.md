@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+[<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 # Hello everyone 👋
 
@@ -41,3 +41,4 @@ GIT / GITFLOW
 
 
 
+](https://www.linkedin.com/in/diego-mendes95/)
